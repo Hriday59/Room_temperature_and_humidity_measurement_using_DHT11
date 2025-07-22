@@ -1,4 +1,7 @@
-// #include <LiquidCrystal.h>
+/*This code is developed and tested by 
+Hriday Sarkar
+Business Development Teamlead
+eChithi */
 
 #include <dht11.h>
 dht11 DHT;
